@@ -124,7 +124,7 @@ export function ContactSection() {
 
         {/* Footer */}
         <div className="mt-24 pt-8 border-t border-border text-center text-muted-foreground text-sm">
-          <p className="font-mono">© 2025 Frontend Developer Portfolio. Built with React, Next.js & Three.js</p>
+          <p className="font-mono">© 2025 Frontend Developer Portfolio. Created by Tamara Nebiyeva</p>
         </div>
       </div>
     </section>
