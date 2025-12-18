@@ -34,7 +34,7 @@ export function AboutSection() {
           <div className="font-mono text-primary text-sm mb-4">$ cat about.txt</div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Haqqımda</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
-            Frontend development sahəsində fəaliyyət göstərirəm. HTML, CSS, JavaScript və React texnologiyalarından istifadə edərək funksional, responsiv və müasir veb interfeyslər hazırlayıram. Tailwind və Bootstrap vasitəsilə istifadəçi yönümlü dizaynlar qurur, API inteqrasiyası ilə dinamik tətbiqlər yaradıram. Məqsədim daim öz bilik və bacarıqlarımı inkişaf etdirərək keyfiyyətli rəqəmsal məhsullar ortaya qoymaqdır.
+            Mən, Tamara Nəbiyeva! Frontend development sahəsində fəaliyyət göstərirəm. HTML, CSS, JavaScript və React texnologiyalarından istifadə edərək funksional, responsiv və müasir veb interfeyslər hazırlayıram. Tailwind və Bootstrap vasitəsilə istifadəçi yönümlü dizaynlar qurur, API inteqrasiyası ilə dinamik tətbiqlər yaradıram. Məqsədim daim öz bilik və bacarıqlarımı inkişaf etdirərək keyfiyyətli rəqəmsal məhsullar ortaya qoymaqdır.
           </p>
         </div>
 
